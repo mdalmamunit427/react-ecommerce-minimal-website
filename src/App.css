@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.active{
+    color: black; 
+    font-weight: 500;
+}
+
+a:hover{
+    color: rgb(249 115 22);
+}
+
+header, nav{
+    z-index: 10001 !important;
+}
+
+.categorybtn button{
+       color: black; 
+       opacity: .50;
+}
