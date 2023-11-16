@@ -22,3 +22,5 @@ header, nav{
        color: black; 
        opacity: .50;
 }
+
+[x-cloak] { display: none; }
