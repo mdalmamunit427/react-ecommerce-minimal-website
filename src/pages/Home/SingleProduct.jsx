@@ -43,6 +43,11 @@ const SingleProduct = () => {
 
   return (
     <div className="mt-28 max-w-screen-2xl container mx-auto xl:px-28 px-4">
+      
+      <div className="flex items-center gap-2 pt-8 text-Black/50">
+        <a href="/">Home</a> <a href="/shop" className="font-semibold text-black">/ Shop</a>
+      </div>
+
       <div className="p-3 max-w-7xl m-auto">
         <div className="mt-6 sm:mt-10">
           <div>
